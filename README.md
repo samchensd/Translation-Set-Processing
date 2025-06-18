@@ -50,6 +50,11 @@ python src/excel_processor.py
 - The output filename includes a timestamp
 - The output file will contain all translations merged by the English text
 
+### Preserving literal values like `None` and `N/A`
+When reading Excel files pandas can treat certain strings as missing values.
+The loader uses `keep_default_na=False` so cells containing strings such as
+`None` or `N/A` remain exactly as typed instead of becoming empty cells.
+
 ## Error Handling
 - The script includes comprehensive error handling and logging
 - Logs are stored in the `logs` directory 
