@@ -39,7 +39,10 @@ def read_excel_safe(file_path: Path, logger: logging.Logger) -> Optional[pd.Data
     If it fails, log the error and return None.
     """
     try:
-        return pd.read_excel(file_path)
+        # keep_default_na=False prevents strings like "None" or "N/A" from being
+        # interpreted as missing values. This preserves those exact strings in
+        # the DataFrame so they are written back out unchanged.
+        return pd.read_excel(file_path, keep_default_na=False)
     except Exception as e:
         logger.error(f"Error reading file {file_path}: {str(e)}")
         return None
