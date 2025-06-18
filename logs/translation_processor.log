@@ -2301,3 +2301,62 @@ Processing language file: zh_CN.xlsx → locale: zh_cn
 Processing language file: zh_HK.xlsx → locale: zh_hk
 2025-06-18 15:03:02,471 - translation_processor - INFO - Appended locale 'zh_hk' to module 'CMGT_BaseTranslations' (969 rows)
 2025-06-18 15:03:02,666 - translation_processor - INFO - Successfully wrote merged file: /Users/sam.s.chen/Desktop/Python Scripts/Translation Set Processing/data/output/CMGT_BaseTranslations_all_languages.xlsx
+2025-06-18 15:30:07,098 - translation_processor - INFO - Loaded module 'CMGT_BaseTranslations' (969 rows)
+2025-06-18 15:30:07,098 - translation_processor - INFO - Total rows across all modules: 969
+2025-06-18 15:30:07,099 - translation_processor - INFO - Using 'ar.xlsx' to compute offsets
+2025-06-18 15:30:07,122 - translation_processor - INFO - Computed offsets for 'CMGT_BaseTranslations': (0, 969)
+2025-06-18 15:30:07,122 - translation_processor - INFO - 
+Processing language file: ar.xlsx → locale: ar
+2025-06-18 15:30:07,162 - translation_processor - INFO - Appended locale 'ar' to module 'CMGT_BaseTranslations' (969 rows)
+2025-06-18 15:30:07,162 - translation_processor - INFO - 
+Processing language file: de.xlsx → locale: de
+2025-06-18 15:30:07,199 - translation_processor - INFO - Appended locale 'de' to module 'CMGT_BaseTranslations' (969 rows)
+2025-06-18 15:30:07,199 - translation_processor - INFO - 
+Processing language file: el.xlsx → locale: el
+2025-06-18 15:30:07,240 - translation_processor - INFO - Appended locale 'el' to module 'CMGT_BaseTranslations' (969 rows)
+2025-06-18 15:30:07,240 - translation_processor - INFO - 
+Processing language file: es.xlsx → locale: es
+2025-06-18 15:30:07,261 - translation_processor - INFO - Appended locale 'es' to module 'CMGT_BaseTranslations' (969 rows)
+2025-06-18 15:30:07,261 - translation_processor - INFO - 
+Processing language file: fr.xlsx → locale: fr
+2025-06-18 15:30:07,306 - translation_processor - INFO - Appended locale 'fr' to module 'CMGT_BaseTranslations' (969 rows)
+2025-06-18 15:30:07,306 - translation_processor - INFO - 
+Processing language file: he.xlsx → locale: he
+2025-06-18 15:30:07,345 - translation_processor - INFO - Appended locale 'he' to module 'CMGT_BaseTranslations' (969 rows)
+2025-06-18 15:30:07,345 - translation_processor - INFO - 
+Processing language file: it.xlsx → locale: it
+2025-06-18 15:30:07,376 - translation_processor - INFO - Appended locale 'it' to module 'CMGT_BaseTranslations' (969 rows)
+2025-06-18 15:30:07,376 - translation_processor - INFO - 
+Processing language file: ja.xlsx → locale: ja
+2025-06-18 15:30:07,407 - translation_processor - INFO - Appended locale 'ja' to module 'CMGT_BaseTranslations' (969 rows)
+2025-06-18 15:30:07,407 - translation_processor - INFO - 
+Processing language file: ko.xlsx → locale: ko
+2025-06-18 15:30:07,429 - translation_processor - INFO - Appended locale 'ko' to module 'CMGT_BaseTranslations' (969 rows)
+2025-06-18 15:30:07,429 - translation_processor - INFO - 
+Processing language file: nl.xlsx → locale: nl
+2025-06-18 15:30:07,450 - translation_processor - INFO - Appended locale 'nl' to module 'CMGT_BaseTranslations' (969 rows)
+2025-06-18 15:30:07,450 - translation_processor - INFO - 
+Processing language file: pl.xlsx → locale: pl
+2025-06-18 15:30:07,471 - translation_processor - INFO - Appended locale 'pl' to module 'CMGT_BaseTranslations' (969 rows)
+2025-06-18 15:30:07,472 - translation_processor - INFO - 
+Processing language file: pt.xlsx → locale: pt
+2025-06-18 15:30:07,492 - translation_processor - INFO - Appended locale 'pt' to module 'CMGT_BaseTranslations' (969 rows)
+2025-06-18 15:30:07,492 - translation_processor - INFO - 
+Processing language file: ru.xlsx → locale: ru
+2025-06-18 15:30:07,532 - translation_processor - INFO - Appended locale 'ru' to module 'CMGT_BaseTranslations' (969 rows)
+2025-06-18 15:30:07,532 - translation_processor - INFO - 
+Processing language file: sv.xlsx → locale: sv
+2025-06-18 15:30:07,563 - translation_processor - INFO - Appended locale 'sv' to module 'CMGT_BaseTranslations' (969 rows)
+2025-06-18 15:30:07,564 - translation_processor - INFO - 
+Processing language file: th.xlsx → locale: th
+2025-06-18 15:30:07,594 - translation_processor - INFO - Appended locale 'th' to module 'CMGT_BaseTranslations' (969 rows)
+2025-06-18 15:30:07,594 - translation_processor - INFO - 
+Processing language file: tr.xlsx → locale: tr
+2025-06-18 15:30:07,633 - translation_processor - INFO - Appended locale 'tr' to module 'CMGT_BaseTranslations' (969 rows)
+2025-06-18 15:30:07,634 - translation_processor - INFO - 
+Processing language file: zh_CN.xlsx → locale: zh_cn
+2025-06-18 15:30:07,655 - translation_processor - INFO - Appended locale 'zh_cn' to module 'CMGT_BaseTranslations' (969 rows)
+2025-06-18 15:30:07,655 - translation_processor - INFO - 
+Processing language file: zh_HK.xlsx → locale: zh_hk
+2025-06-18 15:30:07,678 - translation_processor - INFO - Appended locale 'zh_hk' to module 'CMGT_BaseTranslations' (969 rows)
+2025-06-18 15:30:07,872 - translation_processor - INFO - Successfully wrote merged file: /Users/sam.s.chen/Desktop/Python Scripts/Translation Set Processing/Translation-Set-Processing/data/output/CMGT_BaseTranslations_all_languages.xlsx
